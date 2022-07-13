@@ -3,15 +3,15 @@ All Of The Textures Are Made By Me, In My Free Times. More Updates To Coming!
 
 --------------------------------------------------
 
-Changelogs:
+Changelogs: 
 ~107 Textures Upscaled - v1.0
 
 --------------------------------------------------
 
-Total:
+Total:  
 ~107 Textures Upscaled - All.
 
 --------------------------------------------------
 
-Software Used: Real ESRGAN.
+Software Used: Real ESRGAN. 
 Made By: Luke Zaynner.
