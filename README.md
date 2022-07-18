@@ -5,12 +5,13 @@ All Of The Textures Are Made By Me, In My Free Times. More Updates To Coming!
 
 Changelogs:   
 ~107 Textures Upscaled - v1.0   
-~15 Textures Upscaled - v1.1
+~15 Textures Upscaled - v1.1    
+~12 Textures Upscaled - v1.2
 
 --------------------------------------------------
 
 Total:  
-~122 Textures Upscaled - All.
+~134 Textures Upscaled - All.
 
 --------------------------------------------------
 
