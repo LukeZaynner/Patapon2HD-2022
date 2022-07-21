@@ -7,12 +7,13 @@ Changelogs:
 ~107 Textures Upscaled - v1.0   
 ~15 Textures Upscaled - v1.1    
 ~12 Textures Upscaled - v1.2    
-~28 Textures Upscaled - v1.3
+~28 Textures Upscaled - v1.3    
+~32 Textures Upscaled - v1.4
 
 --------------------------------------------------
 
 Total:  
-~162 Textures Upscaled - All.
+~194 Textures Upscaled - All.
 
 --------------------------------------------------
 
